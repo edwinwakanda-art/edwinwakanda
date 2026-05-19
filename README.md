@@ -3,6 +3,10 @@
 </p>
 
 <p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=007ACC&center=true&vCenter=true&width=600&height=100&lines=EDWIN+FADHILAH+PUTRA" alt="Marquee SVG" />
+</p>
+
+<p align="center">
   <img src="https://komarev.com/ghpvc/?username=edwinwakanda-art&color=007acc&style=flat-square&label=PROFIL+DILIHAT" alt="Visitor Counter" />
 </p>
 
@@ -62,9 +66,9 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=edwinwakanda-art&theme=tokyonight&bg_color=1a1b26&hide_border=true" width="100%" />
 </p>
 
-### 🐍 Animasi Kontribusi (GitHub Snake Game)
+### 🐍 Animasi Kontribusi (GitHub Snake Game - Neon Outline Edition)
 <p align="center">
-  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" alt="Snake animation" width="100%" />
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg?color_snake=%2300ff00&color_bg=%23000000&color_dots=%23161b22,%2300441b,%23006c27,%2314a337,%2310ea43" alt="Snake animation" width="100%" />
 </p>
 
 ### 🔥 Streak Aktivitas
