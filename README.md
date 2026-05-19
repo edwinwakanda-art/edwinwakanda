@@ -66,9 +66,9 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=edwinwakanda-art&theme=tokyonight&bg_color=1a1b26&hide_border=true" width="100%" />
 </p>
 
-### 🐍 Animasi Kontribusi (GitHub Snake Game - Neon Outline Edition)
+### 🐍 Animasi Kontribusi (Gaya Ular Hijau - Outline Edition)
 <p align="center">
-  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg?color_snake=%2300ff00&color_bg=%23000000&color_dots=%23161b22,%2300441b,%23006c27,%2314a337,%2310ea43" alt="Snake animation" width="100%" />
+  <img src="https://raw.githubusercontent.com/edwinwakanda-art/edwinwakanda-art/output/github-contribution-grid-snake-dark.svg?color_bg=#000000&color_snake=#00ff00&color_dots=#161b22,#00441b,#006c27,#14a337,#10ea43" alt="Snake animation" width="100%" />
 </p>
 
 ### 🔥 Streak Aktivitas
