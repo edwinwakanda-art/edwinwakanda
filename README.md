@@ -62,9 +62,9 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=edwinwakanda-art&theme=tokyonight&bg_color=1a1b26&hide_border=true" width="100%" />
 </p>
 
-### 🐍 Animasi Kontribusi (Gaya Ular Hijau - Outline Edition)
+### 🐍 Animasi Kontribusi (GitHub Snake Game - Neon Green Edition)
 <p align="center">
-  <img src="https://raw.githubusercontent.com/edwinwakanda-art/edwinwakanda-art/output/github-contribution-grid-snake-dark.svg?color_bg=#000000&color_snake=#00ff00&color_dots=#161b22,#00441b,#006c27,#14a337,#10ea43" alt="Snake animation" width="100%" />
+  <img src="https://ssr-contributions-snake.vercel.app/api?username=edwinwakanda-art&theme=dark&color_snake=00ff00&color_bg=000000&color_dots=161b22,00441b,006c27,14a337,10ea43" alt="Snake animation" width="100%" />
 </p>
 
 ### 🔥 Streak Aktivitas
@@ -80,6 +80,6 @@
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://instagram.com/username-kamu" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
